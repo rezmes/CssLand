@@ -8,20 +8,7 @@
       "customActions": {
         "ffc690a7-4984-4354-b6bf-913dabb2294d": {
           "location": "ClientSideExtension.ApplicationCustomizer",
-          "properties": {
-            "testMessage": "Test message"
-          }
-        }
-      }
-    },
-    "cssLand": {
-      "pageUrl": "https://intranet.sarirpey.com/SitePages/Home.aspx",
-      "customActions": {
-        "ffc690a7-4984-4354-b6bf-913dabb2294d": {
-          "location": "ClientSideExtension.ApplicationCustomizer",
-          "properties": {
-            "testMessage": "Test message"
-          }
+          "properties": {}
         }
       }
     }
