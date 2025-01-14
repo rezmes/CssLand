@@ -26,13 +26,17 @@ export default class CssLandApplicationCustomizer
   @override
   public onInit(): Promise<void> {
     Log.info(LOG_SOURCE, `Initialized ${strings.Title}`);
+    console.log("onInit method called"); // Add this line
 
     let message: string = this.properties.testMessage;
     if (!message) {
       message = '(No properties were provided.)';
     }
 
-    Dialog.alert(`Hello from ${strings.Title}:\n\n${message}`);
+     Dialog.alert(`Hello from ${strings.Title}:\n\n${message}`);
+    // alert(`Hello from ${strings.Title}:\n\n${message}`);
+    // alert("Test message");
+
 
     return Promise.resolve();
   }

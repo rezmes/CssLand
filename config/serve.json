@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://contoso.sharepoint.com/sites/mySite/SitePages/myPage.aspx",
+      "pageUrl": "https://intranet.sarirpey.com/SitePages/Home.aspx",
       "customActions": {
         "ffc690a7-4984-4354-b6bf-913dabb2294d": {
           "location": "ClientSideExtension.ApplicationCustomizer",
@@ -15,7 +15,7 @@
       }
     },
     "cssLand": {
-      "pageUrl": "https://contoso.sharepoint.com/sites/mySite/SitePages/myPage.aspx",
+      "pageUrl": "https://intranet.sarirpey.com/SitePages/Home.aspx",
       "customActions": {
         "ffc690a7-4984-4354-b6bf-913dabb2294d": {
           "location": "ClientSideExtension.ApplicationCustomizer",
