@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Elements xmlns="http://schemas.microsoft.com/sharepoint/">
-    <CustomAction
-        Title="CssLand"
-        Location="ClientSideExtension.ApplicationCustomizer"
-        ClientSideComponentId="ffc690a7-4984-4354-b6bf-913dabb2294d"
-        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
-    </CustomAction>
+  <CustomAction
+    Title="CssLand"
+    Location="ClientSideExtension.ApplicationCustomizer"
+    ClientSideComponentId="ffc690a7-4984-4354-b6bf-913dabb2294d"
+    ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+  </CustomAction>
 </Elements>
